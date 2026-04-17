@@ -1,7 +1,9 @@
 # Paulo Henrique Gonçalves Alvarenga
 Engenheiro de Computação | TOTVS RM | SQLSERVER | desenvolvedor em Python, JavaScript, Microcontroladores e Infraestrutura de TI
 
-Sou Paulo Henrique Gonçalves Alvarenga, Engenheiro da Computação, com experiência em desenvolvimento, banco de dados e infraestrutura de TI. Atualmente atuo como Analista de TI, com foco no desenvolvimento de relatórios no TOTVS RM, criação e otimização de consultas SQL e análise de dados voltada às regras de negócio. Também possuo experiência com suporte técnico, resolução de incidentes e atendimento a usuários, além de vivência prévia com microcontroladores e infraestrutura de redes. Busco evolução contínua e a construção de soluções eficientes através da tecnologia.
+Sou Paulo Henrique Gonçalves Alvarenga, Engenheiro da Computação, com experiência em desenvolvimento, banco de dados e infraestrutura de TI. Atualmente atuo como Analista de TI, com foco no desenvolvimento de relatórios no TOTVS RM, criação e otimização de consultas SQL e análise de dados voltada às regras de negócio.
+
+Possuo experiência com suporte técnico, resolução de incidentes e atendimento a usuários, além de vivência com microcontroladores e infraestrutura de redes. Busco evolução contínua e a construção de soluções eficientes através da tecnologia.
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/p-alvarenga/)
