@@ -17,6 +17,6 @@ Possuo experiência com suporte técnico, resolução de incidentes e atendiment
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![TOTVS RM](https://img.shields.io/badge/TOTVS-RM-0056A6?style=for-the-badge&logoColor=white)
+![TOTVS RM](https://img.shields.io/badge/TOTVS-RM-3670A0?style=for-the-badge&logo=totvs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
